@@ -1,0 +1,78 @@
+1 classes fetched.
+No client found for email: srimaha@gmail.com
+Booking successful for srimaha@gmail.com in class Yoga
+Booking successful for alice@example.com in class Zumba
+Booking successful for john@example.com in class Zumba
+Booking Failed: Client name does not match.
+Booking failed: {'class_id': [ErrorDetail(string='Invalid class_id: Class not found.', code='invalid')]}
+Booking successful for john@example.com in class Zumba
+Booking successful for john@example.com in class Zumba
+Booking Failed: Overbooking attempt for class ID 1.
+Booking successful for john@example.com in class Zumba
+Booking successful for john@example.com in class Zumba
+Booking Failed: Client name does not match.
+Booking failed: {'class_id': [ErrorDetail(string='Invalid class_id: Class not found.', code='invalid')]}
+Booking successful for john@example.com in class Zumba
+Booking successful for john@example.com in class Zumba
+Booking Failed: Overbooking attempt for class ID 1.
+Booking successful for john@example.com in class Zumba
+Booking successful for john@example.com in class Zumba
+Booking Failed: Client name does not match.
+Booking failed: {'class_id': [ErrorDetail(string='Invalid class_id: Class not found.', code='invalid')]}
+Booking successful for john@example.com in class Zumba
+Booking successful for john@example.com in class Zumba
+Booking Failed: Overbooking attempt for class ID 1.
+Booking successful for john@example.com in class Zumba
+Booking successful for john@example.com in class Zumba
+Booking Failed: Client name does not match.
+Booking failed: {'class_id': [ErrorDetail(string='Invalid class_id: Class not found.', code='invalid')]}
+Booking successful for john@example.com in class Zumba
+Booking successful for john@example.com in class Zumba
+Booking Failed: Overbooking attempt for class ID 1.
+Booking successful for john@example.com in class Zumba
+Booking successful for alice@example.com in class Zumba
+1 classes fetched.
+Booking successful for john@example.com in class Yoga
+Booking successful for john@example.com in class Yoga
+Booking successful for john@example.com in class Yoga
+Booking successful for john@example.com in class Yoga
+1 classes fetched.
+Bookings List: Email is missing
+Client john@example.com fetched 1 enrolled classes.
+Client srimaha@gmail.com fetched 1 enrolled classes.
+No client found with email: jhon@gmail.com
+1 classes fetched.
+No client found with email: jhon@gmail.com
+Client srimaha@gmail.com fetched 1 enrolled classes.
+Booking failed: {'class_id': [ErrorDetail(string='This field is required.', code='required')], 'client_name': [ErrorDetail(string='This field is required.', code='required')], 'client_email': [ErrorDetail(string='This field is required.', code='required')]}
+Booking successful for srimaha@gmail.com in class Yoga
+Booking successful for srimaha@gmail.com in class Yoga
+Booking successful for srimaha@gmail.com in class Yoga
+Booking successful for srimaha@gmail.com in class Yoga
+Booking successful for srimaha@gmail.com in class Yoga
+Booking Failed: Overbooking attempt for class ID 1.
+1 classes fetched.
+Booking Failed: Overbooking attempt for class ID 1.
+1 classes fetched.
+No client found with email: srimaha632@gmail.com
+Client srimaha@gmail.com fetched 1 enrolled classes.
+Booking Failed: Client is already enrolled in this class.
+3 classes fetched.
+3 classes fetched.
+No client found with email: jhon@gmail.com
+No client found with email: john@gmail.com
+Booking Failed: Client name does not match.
+Booking successful for john@example.com in class Zumba
+Client john@example.com fetched 2 enrolled classes.
+3 classes fetched.
+3 classes fetched.
+Booking Failed: Client is already enrolled in this class.
+Booking successful for user@gmail.com in class Zumba
+Booking Failed: Overbooking attempt for class ID 2.
+Client john@example.com fetched 2 enrolled classes.
+3 classes fetched.
+3 classes fetched.
+Booking successful for deepa@gmail.com in class Yoga
+Booking Failed: Client is already enrolled in this class.
+Booking Failed: Overbooking attempt for class ID 2.
+Client john@example.com fetched 2 enrolled classes.
