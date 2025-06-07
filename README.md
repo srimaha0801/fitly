@@ -18,7 +18,11 @@ Users can view available fitness classes, book a slot, and view their bookings. 
 
 ### Install dependencies
 
+Make sure you are using **Python 3.8 or higher**. You can create a virtual environment and install dependencies as follows:
+
 ```bash
+python3.8 -m venv venv
+source venv/bin/activate  # On Windows use: venv\Scripts\activate
 pip install -r requirements.txt
 ```
 
@@ -89,7 +93,7 @@ Validates and books the user into the class if slots are available.
 ### View Client Bookings
 
 ```bash
-curl -X GET http://127.0.0.1:8000/bookings/?email=john@example.com
+curl -X GET http://127.0.0.1:8000/bookings/?email=megna@megna.com
 ```
 
 Returns a list of classes the user is enrolled in.
@@ -104,22 +108,6 @@ To add or edit fitness classes manually:
 2. Log in with the superuser credentials you created
 3. Use the admin interface to add/edit:
    - Fitness classes (`ClassList`)
-
----
-
-## Project Structure (Brief)
-
-```
-fitly/
-├── bookings/
-│   ├── models.py
-│   ├── views.py
-│   ├── serializers.py
-│   ├── booking_test.py
-├── fitly/
-│   ├── settings.py
-│   ├── urls.py
-```
 
 ---
 
